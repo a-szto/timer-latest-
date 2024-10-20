@@ -1,0 +1,18 @@
+print message to tell players to stand
+
+set the timer for a random time between 10-25
+
+create an empty list for player to enter their name
+
+while timer is on,
+
+	players input their name when they sit
+
+	if timer is up, 
+		
+		print time's up
+		
+		break loop
+
+print end message saying the last name on the list is the winner
+
